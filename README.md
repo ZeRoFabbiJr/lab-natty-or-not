@@ -7,16 +7,20 @@ PODCAST: Seja o Capitão do seu Avião!
 IAs não vieram para substituir o humano, mas auxiliar nos trabalhos, absorvendo a rotina repetitiva para liberar a imaginação criativa da humanidade, potencializando a inovação e feração de valor.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa MS Copilot para roteirização e revisão;
+IA Generativa ElevenLabs para clonagem e sintetização de voz;
+Software Descript para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Desenvolvimento e revisão do Roteiro com a IA Generativa MS Copilot
+Sintetização de Voz sobre o texto roteirizado com a IA Generativa ElevenLabs
+Finalização do Podcast no Descript
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma obordagem diferenciada do tema de IA no auxiio (copiloto) das atividades humanas, usando e IAs, desde o desenvolvimento do conteúdo até a apresentação totalmente por 'natty' com IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+As IAs, em especial as Generativas, são uma ótima ferramenta de auxilio nos desafios modernos do trabalho, mas como todo bom ferramental deve ser conduzido por humanos capacitados para extrair o máximo de seu potencial. 
 
 
 ### Exemplos e Insigths
