@@ -23,7 +23,7 @@ Uma obordagem diferenciada do tema de IA no auxiio (copiloto) das atividades hum
 As IAs, em especial as Generativas, são uma ótima ferramenta de auxilio nos desafios modernos do trabalho, mas como todo bom ferramental deve ser conduzido por humanos capacitados para extrair o máximo de seu potencial. 
 
 
-### Exemplos e Insigths
+### Outros Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
