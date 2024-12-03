@@ -1,9 +1,9 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-# Seja o Capitão do seu Avião
+# Seja o Piloto e não o passageiro!
 
 ## 📒 Descrição
-PODCAST: Seja o Capitão do seu Avião!
+PODCAST: Seja o Piloto!
 IAs não vieram para substituir o humano, mas auxiliar nos trabalhos, absorvendo a rotina repetitiva para liberar a imaginação criativa da humanidade, potencializando a inovação e feração de valor.
 
 ## 🤖 Tecnologias Utilizadas
