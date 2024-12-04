@@ -7,16 +7,16 @@ PODCAST: Seja o Piloto!
 IAs não vieram para substituir o humano, mas auxiliar nos trabalhos, absorvendo a rotina repetitiva para liberar a imaginação criativa da humanidade, potencializando a inovação e feração de valor.
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa MS Copilot para roteirização e revisão;
-IA Generativa ElevenLabs para clonagem e sintetização de voz;
-Software Audacity para masterização do audio
-Software Descript para edição e montagem do podcast.
+* IA Generativa MS Copilot para roteirização e revisão;
+* IA Generativa ElevenLabs para clonagem e sintetização de voz;
+* Software Audacity para masterização do audio
+* Software Descript para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Desenvolvimento e revisão do Roteiro com a IA Generativa MS Copilot
-Sintetização de Voz sobre o texto roteirizado com a IA Generativa ElevenLabs
-Normalização e Masterização de audio no Audacity
-Finalização do Podcast no Descript
+* Desenvolvimento e revisão do Roteiro com a IA Generativa MS Copilot
+* Sintetização de Voz sobre o texto roteirizado com a IA Generativa ElevenLabs
+* Normalização e Masterização de audio no Audacity
+* Finalização do Podcast no Descript
 
 ## 🚀 Resultados
 Uma obordagem diferenciada do tema de IA no auxiio (copiloto) das atividades humanas, usando e IAs, desde o desenvolvimento do conteúdo até a apresentação totalmente por 'natty' com IA.
