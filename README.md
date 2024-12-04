@@ -9,11 +9,13 @@ IAs não vieram para substituir o humano, mas auxiliar nos trabalhos, absorvendo
 ## 🤖 Tecnologias Utilizadas
 IA Generativa MS Copilot para roteirização e revisão;
 IA Generativa ElevenLabs para clonagem e sintetização de voz;
+Software Audacity para masterização do audio
 Software Descript para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
 Desenvolvimento e revisão do Roteiro com a IA Generativa MS Copilot
 Sintetização de Voz sobre o texto roteirizado com a IA Generativa ElevenLabs
+Normalização e Masterização de audio no Audacity
 Finalização do Podcast no Descript
 
 ## 🚀 Resultados
